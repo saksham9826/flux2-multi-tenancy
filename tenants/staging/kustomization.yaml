@@ -3,4 +3,4 @@ kind: Kustomization
 resources:
   - ../base/dev-team
 patchesStrategicMerge:
-  - dev-team-patch.yaml
+  - dev-team-patch1.yaml
